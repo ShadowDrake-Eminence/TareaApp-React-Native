@@ -8,3 +8,7 @@ tambien con ayuda de gemini.
 Me gustaria comentar que me resulto una tarea entretenida.
 
 Espero mi tarea sea de su agrado.
+
+
+
+PD: Ignore los commit que dicen Mision cumplida, al subirlos se autocompletaron solos y no se como cambiarlo.
