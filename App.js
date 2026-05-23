@@ -30,7 +30,7 @@ function ThemeHeader({ isDarkMode, onToggle }) {
           Sistema: {isDarkMode ? 'Modo Sigilo' : 'Modo No sigilo'}
         </Text>
         <Text style={[styles.headerQuestion, textStyle]}>
-          ¿Que prefieres, La luz o la ozcuridad?
+          ¿Que prefieres, La luz o la oscuridad?
         </Text>
         <Text style={[styles.headerPrompt, textStyle]}>
           Argumenta tu respuesta
@@ -90,7 +90,7 @@ export default function App() {
     }
   };
 
-  // Asignación dinámica de contenedor / esto tiene artas ayuditas.
+  // Asignación dinámica de contenedor / esto tiene hartas ayuditas.
   const containerStyle = isDarkMode ? styles.containerDark : styles.containerLight;
   const inputStyle = isDarkMode ? styles.inputDark : styles.inputLight;
   const textStyle = isDarkMode ? styles.textDark : styles.textLight;
